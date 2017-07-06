@@ -1,7 +1,7 @@
 # Retro-Learning-Environment
 A learning framework based on the Arcade Learning Environment (ALE) and LibRetro (Stella for Atari and SNES9X for the Super Nintendo Entertainment System).
 
-The environment provides an inreface to training and evaluating AI algorithms against different console games using its screen as input.
+The environment provides an interface to training and evaluating AI algorithms against different console games using its screen as input.
 
 The currently supported games can be found in the src/games/supported directory .
 Some popular games include: _Mortal Kombat, Super Mario All Stars, F-Zero, Castle Wolfenstein_ and _Gradius III_.
